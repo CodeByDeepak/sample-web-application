@@ -1,2 +1,2 @@
 # sample-web-application
-sample node code for route
+sample node code for route hello
