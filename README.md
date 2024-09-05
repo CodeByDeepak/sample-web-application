@@ -1,2 +1,2 @@
 # sample-web-application
-sample we application in nodejs
+sample node code for route
